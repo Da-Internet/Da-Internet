@@ -1,13 +1,12 @@
 <h1 align="center"><b>Hi, Welcome to my Profile </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-## <picture><img src = "https://github.com/D0JYAN/D0JYAN/blob/main/Img/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Da-Internet/Da-Internet/blob/main/Img/About_Me.gif" width = 50px></picture> About me
 
-<br>
-- :school: I am an `aspiring programmer` specialized in `web development` and `databases` 
-- :student: I’m currently learning `Web Development`, `3D design in Blender` and `Mobile Development`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`.
-
+<br> <br>
+- :computer: I am an `aspiring programmer` specialized in `web development` and `databases` 
+- :blue_book: I’m currently learning `Web Development`, `3D design in Blender` and `Mobile Development`.
+- :eyeglasses: Always `learning new things`.
+- :brain: I’m currently open for a new `job opportunity`.
 <br>
 
 ## <picture> <img src = "https://github.com/Da-Internet/Da-Internet/blob/main/Img/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
